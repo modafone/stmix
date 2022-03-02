@@ -1,3 +1,3 @@
 # STMix
 
-Please run the code in "python" directory.
+Please run the code colon_code5.py
