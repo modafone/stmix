@@ -1,7 +1,7 @@
 # KST-Mixer
 
 ## About KST-Mixer
-KST-Mixer: Kinematic Spatio-Temporal Data Mixer For Colon Shape Estimation
+**KST-Mixer: Kinematic Spatio-Temporal Data Mixer For Colon Shape Estimation**
 
 Presented in [AE-CAI | CARE | OR 2.0 Joint MICCAI Workshop 2022](https://workshops.ap-lab.ca/aecai2022/)
 
