@@ -5,6 +5,7 @@ KST-Mixer: Kinematic Spatio-Temporal Data Mixer For Colon Shape Estimation
 Presented in AE-CAI | CARE | OR 2.0 Joint MICCAI Workshop 2022
 
 Abstract:
+
 We propose a spatio-temporal mixing kinematic data estimation method to estimate the shape of the colon with deformations caused by colonoscope insertion.
 Endoscope tracking or a navigation system that navigates physicians to target positions is needed to reduce such complications as organ perforations.
 Although many previous methods focused to track bronchoscopes and surgical endoscopes, few number of colonoscope tracking methods were proposed.
